@@ -1,6 +1,6 @@
 # the-greeting
 
-this is a booking manager for "The Greeting Bnaquets".
+this is a booking manager for "The Greeting Banquets".
 
 #functions
 1. to add a new booking
